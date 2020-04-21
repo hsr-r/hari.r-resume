@@ -8,15 +8,19 @@ body {
       #fff;
       background-size: 109px 109px, 109px 109px,100% 6px, 109px 109px, 109px 109px;
       background-position: 54px 55px, 0 0, 0 0, 0 0, 0 0;
+  font-size: 1.35rem;
+  font-family: 'Comic Neue', cursive;
 }
 
 h1 {
   color: #293462;
+  font-family: 'Oswald', sans-serif;
 }
 
 h3 {
   color: #216583;
   text-align: center;
+  font-family: 'Oswald', sans-serif;
 }
 
 div {
@@ -26,6 +30,7 @@ div {
 h4 {
   text-align: center;
   color: #f76262;
+  font-family: 'Oswald', sans-serif;
 }
 
 .table-el-color {
@@ -48,7 +53,7 @@ h4 {
 }
 
 .top-cont {
-  width: 590px;
+  width: 625px;
   margin: 0 auto;
 }
 
@@ -59,7 +64,7 @@ h4 {
 }
 
 .cont-2 {
-  width: 357px;
+  width: 460px;
 }
 
 .cont-3 {
@@ -67,22 +72,22 @@ h4 {
 }
 
 .cont-4 {
-  width: 220px;
+  width: 270px;
   line-height: 1.5;
 }
 
 .cont-5 {
-  width: 243px;
+  width: 292px;
 }
 
 .cont-6 {
-  width: 170px;
+  width: 200px;
 }
 
 .cont-7 {
-  width: 300px;
+  width: 360px;
 }
 
 .cont-8 {
-  width: 350px;
+  width: 400px;
 }
