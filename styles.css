@@ -1,0 +1,88 @@
+body {
+  background:
+      radial-gradient(#fff1c1 3px, transparent 4px),
+      radial-gradient(#fff1c1 3px, transparent 4px),
+      linear-gradient(#fff 4px, transparent 0),
+      linear-gradient(45deg, transparent 74px, transparent 75px, #a4a4a4 75px, #a4a4a4 76px, transparent 77px, transparent 109px),
+      linear-gradient(-45deg, transparent 75px, transparent 76px, #a4a4a4 76px, #a4a4a4 77px, transparent 78px, transparent 109px),
+      #fff;
+      background-size: 109px 109px, 109px 109px,100% 6px, 109px 109px, 109px 109px;
+      background-position: 54px 55px, 0 0, 0 0, 0 0, 0 0;
+}
+
+h1 {
+  color: #293462;
+}
+
+h3 {
+  color: #216583;
+  text-align: center;
+}
+
+div {
+  margin: 0 auto;
+}
+
+h4 {
+  text-align: center;
+  color: #f76262;
+}
+
+.table-el-color {
+  /* color: #ecfbfc; */
+  color: white;
+}
+
+.type-one {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 10%;
+}
+
+.type-two {
+  background-color: white;
+  border-color: white;
+  width: 5%;
+}
+
+.top-cont {
+  width: 590px;
+  margin: 0 auto;
+}
+
+.cont-1 {
+  width: 500px;
+  text-align: center;
+  line-height: 1.5;
+}
+
+.cont-2 {
+  width: 357px;
+}
+
+.cont-3 {
+  width: 660px;
+}
+
+.cont-4 {
+  width: 220px;
+  line-height: 1.5;
+}
+
+.cont-5 {
+  width: 243px;
+}
+
+.cont-6 {
+  width: 170px;
+}
+
+.cont-7 {
+  width: 300px;
+}
+
+.cont-8 {
+  width: 350px;
+}
