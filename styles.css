@@ -33,6 +33,16 @@ h4 {
   font-family: 'Oswald', sans-serif;
 }
 
+a{
+  text-decoration: none;
+  color: #216583;
+}
+
+a:hover{
+  color: #216583;
+  text-decoration: underline;
+}
+
 .table-el-color {
   /* color: #ecfbfc; */
   color: white;
